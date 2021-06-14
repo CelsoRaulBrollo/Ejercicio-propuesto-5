@@ -1,0 +1,10 @@
+Carlos,Sanchez,20-01-1980,45678
+Cristian,Aguero,10-10-1995,52485
+Rolando,Messias,22-09-1996,9800
+Maria,Soldado,19-01-2000,81200
+Julian,Alvarez,24-11-1986,65000
+Enzo,Suarez,13-05-1988,45050
+Hugo,Quintana,05-05-1985,48200
+Pablo,Montero,28-10-1992,55150
+Mirta,Maciel,24-12-1985,115000
+Martin,Fernandez,07-11-1998,49555
